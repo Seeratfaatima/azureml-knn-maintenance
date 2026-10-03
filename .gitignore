@@ -224,3 +224,6 @@ model_local/
 *.key
 .amlignore
 *.amltmp
+data/ai4i-*/
+notebooks/model/
+.ipynb_aml_checkpoints/
