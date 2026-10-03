@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+matplotlib
+seaborn
+mlflow
+azureml-mlflow
+azure-ai-ml
+azure-identity
+ucimlrepo
+requests

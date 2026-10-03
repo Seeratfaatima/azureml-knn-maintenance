@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.ipynb_checkpoints/
+mlruns/
+model_local/
+*.key
+.amlignore
